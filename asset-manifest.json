@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/beep-saber/static/css/main.0e433876.chunk.css",
-    "main.js": "/beep-saber/static/js/main.f546149c.chunk.js",
+    "main.js": "/beep-saber/static/js/main.d2201e4b.chunk.js",
     "runtime-main.js": "/beep-saber/static/js/runtime-main.e6a0ec35.js",
-    "static/js/2.07d67a5e.chunk.js": "/beep-saber/static/js/2.07d67a5e.chunk.js",
+    "static/js/2.1be17d1c.chunk.js": "/beep-saber/static/js/2.1be17d1c.chunk.js",
     "index.html": "/beep-saber/index.html",
-    "static/js/2.07d67a5e.chunk.js.LICENSE.txt": "/beep-saber/static/js/2.07d67a5e.chunk.js.LICENSE.txt"
+    "static/js/2.1be17d1c.chunk.js.LICENSE.txt": "/beep-saber/static/js/2.1be17d1c.chunk.js.LICENSE.txt",
+    "static/media/Roboto-msdf.6aad3506.png": "/beep-saber/static/media/Roboto-msdf.6aad3506.png",
+    "static/media/arrow.a13512c7.obj": "/beep-saber/static/media/arrow.a13512c7.obj",
+    "static/media/cube.505574b6.obj": "/beep-saber/static/media/cube.505574b6.obj",
+    "static/media/new.4f6d2981.glb": "/beep-saber/static/media/new.4f6d2981.glb",
+    "static/media/song.ef48317f.ogg": "/beep-saber/static/media/song.ef48317f.ogg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6a0ec35.js",
-    "static/js/2.07d67a5e.chunk.js",
-    "static/css/main.0e433876.chunk.css",
-    "static/js/main.f546149c.chunk.js"
+    "static/js/2.1be17d1c.chunk.js",
+    "static/js/main.d2201e4b.chunk.js"
   ]
 }
